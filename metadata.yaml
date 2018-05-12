@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '2917'
     url: http://www.gutenberg.org/2009/agents/2917
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15954#Mary-Jane-Her-Visit
 gutenberg_issued: '2005-05-31'
 gutenberg_type: Text
 identifiers:
